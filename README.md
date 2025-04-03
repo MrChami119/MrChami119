@@ -124,10 +124,6 @@
   </a>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrchami119&show_icons=true&theme=radical" alt="mrchami119" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrchami119&layout=compact&theme=radical" alt="mrchami119" />
-</p>
+
+
